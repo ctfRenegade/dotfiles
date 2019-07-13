@@ -108,4 +108,3 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export PATH="$PATH:/opt/checksec.sh:/opt/dirsearch:/opt/Empire:/opt/retdecinstall/bin"
